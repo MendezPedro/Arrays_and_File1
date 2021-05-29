@@ -1,5 +1,5 @@
 visitas = [1000, 800, 250, 300, 500, 2500]
-visitas2 = [1000, 500, 150, 300, 500, 1000]
+visitas2 = [1000, 500, 5500, 300, 500, 1000]
 
 def compara_arrays(a, b)
     suma = a.inject(0){ |sum, x| sum + x}
